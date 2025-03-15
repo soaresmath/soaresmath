@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olám me chamo Matheus, sou um estudante de ADS e estou no começo de uma grande jornada da área de TI.<br><br>
+  Olá me chamo Matheus, sou um estudante de ADS e estou no começo de uma grande jornada da área de TI.<br><br>
   Atualmente estou trabalhando e estudando.
 </p>
 <p align="left">

@@ -1,23 +1,41 @@
+# 👋 Olá, eu sou o Matheus
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+📊 Foco em **Dados, Banco de Dados e Analytics**
 
-<p align="left"> 
-  Olá me chamo Matheus, sou um estudante de ADS e estou no começo de uma grande jornada da área de TI.<br><br>
-  Atualmente estou trabalhando e estudando.
-</p>
-<p align="left">
-  🦄 Linguagens: C, Python e Java
-</p>
+Trabalho com projetos práticos em Python, explorando **análise de dados, visualização e dashboards interativos**, sempre buscando transformar dados em insights claros.
 
-<p align="left">
-  💼 Ferramentas: Intellj, Clion e PyCharm
-</p>
+---
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
+## 🧰 Tecnologias
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=matheuusnasciment@gmail.com" alt="Gmail"/></a>
-</p>
+- **Python**, **SQL**
+- **Pandas**, **NumPy**
+- **Matplotlib / Seaborn / Plotly**
+- **Streamlit**
+- **Git & GitHub**
+- **MySQL**
+
+---
+
+## 📌 Projetos
+
+- Dashboards interativos com **Streamlit** 
+- Análise e tratamento de dados com **Python**
+- Projetos acadêmicos e pessoais voltados a dados 
+
+---
+
+## 🌱 Em aprendizado contínuo
+
+- Análise exploratória de dados
+- Storytelling com dados
+- Dashboards e visualização
+- Banco de dados
+
+---
+
+## 📫 Contato
+
+🔗 GitHub: https://github.com/soaresmath/soaresmath/
+🔗 LinkedIn: www.linkedin.com/in/matheus-soares-nascimento-354375341

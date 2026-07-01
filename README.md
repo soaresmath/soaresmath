@@ -38,30 +38,6 @@ Projeto realizado durante a imersão de **Dados com Python da Alura**, focando e
 
 ---
 
-### 🌉 **Skill Bridge** — Plataforma de Desenvolvimento de Habilidades
-**Linguagem:** JavaScript 95.3% | HTML 4.3% | CSS 0.4%  
-Projeto acadêmico para criar uma plataforma interativa que conecta usuários e oferece recomendações personalizadas de desenvolvimento profissional. Interface moderna com JavaScript puro.
-
-💻 [Repositório](https://github.com/soaresmath/Skill_Bridge) | 🔗 JavaScript | Frontend
-
----
-
-### 🎯 **Skill Bridge - Versão Final**
-**Linguagem:** JavaScript 84.4% | TSQL 12.5% | HTML 3.1%  
-Versão aprimorada do projeto Skill Bridge integrando **backend robusto** com TSQL, buscando entregar funcionalidades avançadas de recomendação e análise de perfil de usuários.
-
-📦 [Repositório](https://github.com/soaresmath/skill_bridge_final) | 🔗 JavaScript | TSQL | Full Stack
-
----
-
-### 💡 **Skill Bridge - Recommendations Engine**
-**Linguagem:** JavaScript 100%  
-Engine de recomendações desenvolvido em JavaScript puro para sugerir trilhas de aprendizado personalizadas baseadas no perfil e histórico do usuário. Foco em algoritmos de recomendação.
-
-🚀 [Repositório](https://github.com/soaresmath/skill-bridge-recommendations) | 🔗 JavaScript | Algoritmos
-
----
-
 ## 📈 Áreas de Expertise
 
 | 📊 Data & Analytics | 💻 Web Development | 🗄️ Bancos de Dados |

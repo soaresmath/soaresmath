@@ -51,7 +51,7 @@ Projeto pessoal de ingestão e transformação de dados de aviação a partir de
 
 *Projeto em desenvolvimento.*
 
-### 🗄️ Local Database Manager (LDM)
+### 🗄️ [Local Database Manager (LDM)](https://github.com/soaresmath/local-db-manager)
 
 Ferramenta em Python para gerenciar serviços locais de bancos de dados no Windows, criada a partir de desafios encontrados durante meus estudos.
 
